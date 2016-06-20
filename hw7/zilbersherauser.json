@@ -1,0 +1,109 @@
+[{
+	"_id": {
+		"$oid": "5767c7362ef33ef50a9dacfa"
+	},
+	"username": "ashley",
+	"password": "ashley",
+	"active": "Y",
+	"address": {
+		"street": "170 Commonwealth Avenue",
+		"city": "Boston",
+		"zip": 2140,
+		"state": "Massachusetts",
+		"country": "US"
+	},
+	"date_of_creation": {
+		"$date": "2014-04-20T04:00:00.000Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "5767c7362ef33ef50a9dacfb"
+	},
+	"username": "ashley",
+	"password": "ashley",
+	"active": "Y",
+	"address": {
+		"street": "10 Park Avenue",
+		"city": "Boston",
+		"zip": 2140,
+		"state": "Massachusetts",
+		"country": "US"
+	},
+	"date_of_creation": {
+		"$date": "2014-04-20T04:00:00.000Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "5767c7362ef33ef50a9dacfc"
+	},
+	"username": "jason",
+	"password": "jason",
+	"active": "Y",
+	"address": {
+		"street": "70 Peterbourough Street",
+		"city": "Boston",
+		"zip": 2145,
+		"state": "Massachusetts",
+		"country": "US"
+	},
+	"date_of_creation": {
+		"$date": "2015-09-20T04:00:00.000Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "5767c7362ef33ef50a9dacfd"
+	},
+	"username": "jason",
+	"password": "jason",
+	"active": "Y",
+	"address": {
+		"street": "2 Downtown",
+		"city": "Boston",
+		"zip": 2143,
+		"state": "Massachusetts",
+		"country": "US"
+	},
+	"date_of_creation": {
+		"$date": "2015-09-20T04:00:00.000Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "5767c7362ef33ef50a9dacfe"
+	},
+	"username": "admin",
+	"password": "admin",
+	"active": "Y",
+	"address": {
+		"street": "10 Geng Road",
+		"city": "Palo Alto",
+		"zip": 94303,
+		"state": "California",
+		"country": "US"
+	},
+	"date_of_creation": {
+		"$date": "2014-01-04T05:00:00.000Z"
+	}
+},
+{
+	"_id": {
+		"$oid": "5767c7362ef33ef50a9dacff"
+	},
+	"username": "jen",
+	"password": "jen",
+	"active": "N",
+	"address": {
+		"street": "Geng Road",
+		"city": "Palo Alto",
+		"zip": 94303,
+		"state": "California",
+		"country": "US"
+	},
+	"date_of_creation": {
+		"$date": "2013-11-25T05:00:00.000Z"
+	}
+}]
+

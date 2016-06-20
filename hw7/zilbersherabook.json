@@ -1,0 +1,106 @@
+[{
+	"_id": {
+		"$oid": "5767dcc72ef33ef50a9dad18"
+	},
+	"title": "Southern Lights",
+	"author": {
+		"first_name": "Danielle",
+		"last_name": "Steele"
+	},
+	"isbn": "303041974",
+	"publisher": {
+		"p1": {
+			"name": "Random House",
+			"date": {
+				"$date": "2002-04-23T04:00:00.000Z"
+			},
+			"addresses": {
+				"a1": {
+					"street": "1475 Broadway",
+					"city": "New York",
+					"zip": 10019,
+					"state": "New York",
+					"country": "US"
+				},
+				"a2": {
+					"street": "375 Hudson Street",
+					"city": "New York",
+					"zip": 10014,
+					"state": "New York",
+					"country": "US"
+				}
+			}
+		},
+		"p2": {
+			"name": "Penguin Publishers",
+			"date": {
+				"$date": "1998-01-19T05:00:00.000Z"
+			},
+			"addresses": {
+				"a1": {
+					"street": "140 Broadway",
+					"city": "New York",
+					"zip": 10013,
+					"state": "New York",
+					"country": "US"
+				}
+			}
+		}
+	},
+	"available": true,
+	"pages": 2042,
+	"summary": "Danielle Steel sweeps us from a Manhattan courtroom to the Deep South in her powerful new novel—at once a behind-closed-doors look into the heart of a family and a tale of crime and punishment.",
+	"subjects": {
+		"s1": "Fiction",
+		"s2": "Romance"
+	},
+	"notes": {
+		"n1": {
+			"user": "jason",
+			"body": "Nice book. Must Read"
+		},
+		"n2": {
+			"user": "jen",
+			"body": "Nice book. I have been traveling a lot, so I listened to the audio of this book. I really enjoyed it."
+		}
+	},
+	"language": "English"
+},
+{
+	"_id": {
+		"$oid": "5767dcc72ef33ef50a9dad19"
+	},
+	"title": "Concrete Mathematics",
+	"author": {
+		"first_name": "Donald",
+		"last_name": "Knuth"
+	},
+	"isbn": "0-203-03803-1",
+	"publisher": {
+		"p3": {
+			"name": "Addison-Wesley",
+			"date": {
+				"$date": "1994-03-01T05:00:00.000Z"
+			},
+			"addresses": {
+				"a1": {
+					"street": "75 Arlington Street",
+					"city": "Boston",
+					"zip": 2116,
+					"state": "Massachussetts",
+					"country": "US"
+				}
+			}
+		}
+	},
+	"available": true,
+	"pages": 3524,
+	"summary": "Concrete Mathematics: A Foundation for Computer Science, by Ronald Graham, Donald Knuth, and Oren Patashnik, is a textbook that is widely used in computer-science departments",
+	"subjects": {
+		"s1": "Mathematics",
+		"s2": "Algebra"
+	},
+	"notes": {},
+	"language": "English"
+}]
+
