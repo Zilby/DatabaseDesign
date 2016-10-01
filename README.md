@@ -1,2 +1,2 @@
 # DatabaseDesign
-Repository for Database Design - Nuterm
+Repository for Database Design - Nuterm 1
